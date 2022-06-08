@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - finds the various sizes of the data types on the computer
+ *main - Entry point
  *size of the data types
  *Return: Always 0 (Success)
  */
