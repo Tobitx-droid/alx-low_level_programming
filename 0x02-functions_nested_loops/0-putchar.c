@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include <unistd.h>
+#include "main.h"
 
 /**
  * main - Major program
@@ -8,6 +9,12 @@
 
 int main(void)
 {
-	printf("_putchar");
+	char s[15] = "_putchar";
+	int i;
+
+	for (i = 0; s[i] != '\0'; i++)
+		_putchar(s[i]);
+	_putchar('\n');
+
 	return (0);
 }
