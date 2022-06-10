@@ -3,8 +3,8 @@
 
 /**
  * main - Major program
- *Prints out text
- *return 0 for success
+ * Using a custom header file 
+ *Return (0)
  */
 
 int main(void)
