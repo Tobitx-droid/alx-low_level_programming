@@ -3,10 +3,9 @@
 
 /**
  * main - Major program
- * Using a custom header file 
- *Return (0)
+ * Using a custom header file
+ *Return: Always 0
  */
-
 int main(void)
 {
 	char s[15] = "_putchar";
