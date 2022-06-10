@@ -3,7 +3,7 @@
 /**
  * print_alphabet_x10 - The description is below
  * Description: Prints the alphabet ten times
- * 
+ *
  * Return: Nothing
  */
 
