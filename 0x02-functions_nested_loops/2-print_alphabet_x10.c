@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Major program
- * prints the alphabet x10
- * no return
+ * print_alphabet_x10
+ * Description: Prints the alphabet ten times
+ * Return: Nothing
  */
 
 void print_alphabet_x10(void)
