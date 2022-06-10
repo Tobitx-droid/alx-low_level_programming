@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Major program
- *
- * Return nothing
+ * print_alphabet - Major program
+ * Description: Prints the alphabets in order
+ * Return: Nothing
  */
 
 void print_alphabet(void)
