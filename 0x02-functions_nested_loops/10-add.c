@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * main - Major programme
- * adds two integers
- * return 0 for succes
+ * add - The description is below
+ * Description - adds two integers
+ * @a: integer input value
+ * @b: integer input value
+ * Return: Always 0 for success
  */
 
 int add(int a, int b)
