@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - Major program
- * Checks for upper and lower case
- * return 0 for success
+ * _isalpha - The description is below
+ * Description: Checks for upper and lower case
+ * @c: integer input value
+ * Return: Always 0 for success
  */
 
 int _isalpha(int c)
@@ -16,7 +17,7 @@ int _isalpha(int c)
 		if (c == i)
 			alpha = 1;
 	}
-	
+
 
 	for (i = 'A'; i <= 'Z'; i++)
 	{
