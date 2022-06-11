@@ -3,7 +3,7 @@
 /**
  * _islower - The description is below
  * Description: This function checks for lowercase character
- * @n: integer input value
+ * @c: integer input value
  * Return: Always return 0
  */
 
