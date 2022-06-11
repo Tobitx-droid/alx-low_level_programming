@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * 3-islower - The description is below
+ * _islower - The description is below
  * Description: This function checks for lowercase character
  * @n: integer input value
  * Return: Always return 0
