@@ -2,9 +2,10 @@
 #include "main.h"
 
 /**
- * main- Major programme
- * prints numbers to 98
- * returns nothing
+ * print_to_98 - The description is below
+ * Description: prints numbers to 98
+ *
+ * Return: Nothing
  */
 
 void print_to_98(int n)
