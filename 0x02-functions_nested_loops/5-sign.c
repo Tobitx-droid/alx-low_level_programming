@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - Major program
- * Prints the sign of a number
- * return o for success
+ * print_sign - The description is below
+ * Description: Prints the sign of a number
+ * @n: integer input value
+ * Return: Always return 0 for success
  */
 
 int print_sign(int n)
