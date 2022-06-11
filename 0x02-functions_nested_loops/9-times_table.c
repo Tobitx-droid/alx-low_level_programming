@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - Major programme
- * prints the times table
- * return nothing
+ * times_table - The description is below
+ * Description - prints the times table
+ *
+ * Return: nothing
  */
 
 void times_table(void)
@@ -14,13 +15,13 @@ void times_table(void)
 	{
 		for (j = 0; j < 10; j++)
 		{
-		
+
 			k = j * i;
-		
+
 			if (j == 0)
-		
+
 			{
-			
+
 				_putchar(k + '0');
 			}
 
