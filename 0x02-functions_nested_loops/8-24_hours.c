@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * Main - Major program
- * prints every minute of the day
- * return 0 for success
+ * jack_bauer - The description is below
+ * Description - prints every minute of the day
+ * Return: Always 0 for success
  */
 
 void jack_bauer(void)
@@ -28,4 +28,3 @@ void jack_bauer(void)
 		}
 	}
 }
-
