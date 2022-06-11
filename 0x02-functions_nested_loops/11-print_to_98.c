@@ -4,7 +4,7 @@
 /**
  * print_to_98 - The description is below
  * Description: prints numbers to 98
- *
+ * @n: integer input value
  * Return: Nothing
  */
 
