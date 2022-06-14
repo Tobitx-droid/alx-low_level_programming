@@ -13,8 +13,7 @@ void print_rev(char *s)
 	      int total;
 
 	      for (total = 0; s[total] != '\0'; total++);
-
-	      i = total - 1;
+			 i = total - 1;
 	      while (i >= 0)
 	      {
 	            	_putchar(s[i]);
