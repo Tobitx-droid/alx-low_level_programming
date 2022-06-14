@@ -19,7 +19,7 @@ int _atoi(char *s)
 	number = 0;
 
 	while (s[total] != '\0')
-		len++;
+		total++;
 
 	while (a < total && f == 0)
 	{
