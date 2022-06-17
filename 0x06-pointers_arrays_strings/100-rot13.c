@@ -14,13 +14,13 @@ char *rot13(char *s)
 	char p[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
 	char q[] = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm";
 
-	for (m = 0; q[m] != '\0'; m++)
+	for (m = 0; s[m] != '\0'; m++)
 	{
 		for (n = 0; p[n] != '\0'; n++)
 		{
-			if (q[m] == p[n])
+			if (s[m] == p[n])
 			{
-				q[m] = b[n];
+				s[m] = b[n];
 				break;
 			}
 		}
