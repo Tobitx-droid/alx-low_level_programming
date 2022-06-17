@@ -20,7 +20,7 @@ char *rot13(char *s)
 		{
 			if (s[m] == p[n])
 			{
-				s[m] = b[n];
+				s[m] = q[n];
 				break;
 			}
 		}
