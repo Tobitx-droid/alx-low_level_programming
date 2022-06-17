@@ -1,4 +1,4 @@
-	#include "main.h"
+#include "main.h"
 
 /**
  * cap_string - The description is below
@@ -7,6 +7,7 @@
  *
  * Return: the resulting string
  */
+
 char *cap_string(char *s)
 {
 	int m, k;
