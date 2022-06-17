@@ -4,7 +4,7 @@
  * magic - The description is below
  * Description: prints out a value
  * 
- * Return: Nothing
+ * Return: 0 for success
  */
 
 int main(void)
